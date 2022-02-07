@@ -1,0 +1,8 @@
+public class Testing {
+  int testv;
+    public Testing() {
+    testv=0;
+    }
+    
+    
+}
